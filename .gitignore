@@ -1,0 +1,11 @@
+########################
+## Visual Studio 2013 ##
+########################
+
+*.cache
+*.tlog
+*.pdb
+*bin/
+*obj/
+*.suo
+*.cachefile
